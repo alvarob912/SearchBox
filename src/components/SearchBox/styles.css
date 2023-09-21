@@ -1,0 +1,18 @@
+.searchBox {
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+.searchBox input {
+  border-radius: 20px;
+  width: 90%;
+}
+input {
+  outline: none;
+  appearance: none;
+}
+
+.Empty {
+  border: 1px solid gray;
+  padding: 20px;
+}
